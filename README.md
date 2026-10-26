@@ -1,5 +1,5 @@
 # STEM Studio — page de présentation client
 
-Site public : https://ulyssecouliou.github.io/stem-studio-site/ . Ce dépôt contient uniquement les six fichiers de présentation commerciale. Ouvrir index.html pour consulter une copie hors ligne.
+Site public : https://stem-studio-fr.pages.dev/ . Ce dépôt conserve une copie statique des fichiers de présentation. GitHub Pages est désactivé ; le site actuel est hébergé sur Cloudflare Pages.
 
-Les vidéos externes du portfolio renvoient vers la chaîne STEM Studio. L'adresse de contact est stemstudio.pro@gmail.com. Aucun témoignage client, prix ferme ou revenu n'est revendiqué.
+Les vidéos du portfolio renvoient vers la chaîne STEM Studio. Contact professionnel : stemstudio.pro@gmail.com. Aucun témoignage client, prix ferme ou revenu n'est revendiqué.
